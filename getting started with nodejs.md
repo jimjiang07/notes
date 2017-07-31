@@ -11,6 +11,7 @@
   * () => {}
   * Promise
   * ...
+* [ECMAScript proposals](https://github.com/tc39/proposals)
 * [Eric Elliott](https://medium.com/@_ericelliott/latest)
   * [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
 * [funfunfunction aka Mattias P Johansson](https://medium.com/@mpjme/latest)
